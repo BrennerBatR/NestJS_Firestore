@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "corepetro",
+  "private_key_id": "57e280214c9270d4406da0e7a80d9053fba431e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqdGi5qTZgEBp7\n4NOaHao/QjySn4RUhkjJfYycSdLXFdP3Z/aB8aGjNnvu7n/PeoaB2og7+YJ53cLG\nGF9Buk7ASUXi4VzlkzX8Rbls2pKW9CX4VMcjXHNcLK5aSurgp4HiBGFGig8Ml338\nIg78AQ3FHT7Hk4E9AQQUlWUSCorSuaEUFB/UCq5Ol88LzXrKi/NrC9/YveyubqTC\nFahIlLa8RP1RmrMy3YLZL3Wy2vsbF3CJqISbeesm0XSqtMBSxqKHeYfMC6toflEN\nn9ZvLAyjJ11UBHnoSTE51VwtjzVk7IzlSX+j3Ns3nGylbFkPb5SaGqq+OqJcL6jZ\nmxQQpZoxAgMBAAECggEAHd6KyHgItYI05d7SrbfDkNS+URI/aeFjKV3FEVEVb4fd\nbkYLSh+Jy9Q9GPQ1tOmbXu9ovpu9O7Y6zqRQMvAfIy5j3vtPYFJw3B1qvhK6K9Yq\nPi86+y0U8QLKZbupl4b66VyLoEUKmJIGa3ObbRkRLOiwSuBD/ijqqmG4hZYP2BeR\n2Apyt2PrYOWi4AVoXVrnWapuGq2ceIgxGGlS7WbHef+QnWEsZyAhmSkSDue/73GX\nnKRBwtMedg8Pxmv47YQSYNJojHsKiEsdHFRaYZmmeX+i+1HlGqkSxOmYgw0w1VGo\nVjVqcj9ca7YI1dx7MID9xqqbxfXA3EvKwF0pvb6YvQKBgQDw4v/aI0/4330qxPSw\nfJWQee9rH8o/u+wN0L4WWIDAIUSiLkWcj2NScsqVp62YFFEoSdcb+o6xS/8WziNI\nnc2kPDxjy85XGk5w3rn+gsGt29O2ufsqPKXF71gysXJHm0RQIAFxvoutOma/9R4K\nsURpewMasREnjMyXnGc23mMI3QKBgQC1JiqnEuzs3ZuXZPY3qnXPidWdCiS65Ji+\nkxWuJ1hLc5VtXjhGrOq9KeWhiJZgljmCw7rzyVGxdI83rq/gXYSVnakUFlydcQ2W\njlP/TWNRo90+sPoaxv3UOmF9LLIELHPuxqhsD+i8MJ1YYovijkqup2akjWo9gIiI\nVT192NBXZQKBgEV8peNuFk6rYXbp88/JUHepxPe45uW1tuVRVtQpWZKSxjKmeGwu\nLK+G74t2ICxjh/nAOy4V+/2G96HDewgihUSgH6eGDhKwQvpqNWsGmwolBJCMW7iW\nYBeV8HJHH7kqP+2BHgmKts4Ur7kl4zGgaySmWIHlnBY1lnsRofCA/D59AoGBAIzb\ncK8ZeEF20FWYnBwM4C7Q7tl92bG5r0wA8wrIbU++QKMacIgETUNqILTKkKPqLC4S\nJH0MPgnOqM6Tdw7vqPjt71s/SCTkk7xOT+JlOqVw1ci5tMC9mwI7ozLCXmoAZuV0\nc+ITPNWYt8DSYBN6sXe9k4LAs6u/FmtsXLROszJBAoGARIhlT+RsXHJBQ/vThIaB\n7TY/r6mtaa3o2AWqZXHn8xkavJPy+jm8BIqSaTTmP0VNffuWhRfg/P1C7TO0XQCi\nP53OGdFe0P+edYxWS1Tg1GInY9+p3IoSUJjXCLkL9EVGf/XfHGlye5De4/kLPpqs\nme+UlDLQClmvddUZPDkPuz0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "storagecloud@corepetro.iam.gserviceaccount.com",
+  "client_id": "108500791107449395606",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storagecloud%40corepetro.iam.gserviceaccount.com"
+}

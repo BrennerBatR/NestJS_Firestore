@@ -1,0 +1,16 @@
+steps:
+- name: node:8.13.0
+  entrypoint: yarn
+  args: ['install']
+
+- name: node:8.13.0
+  entrypoint: yarn
+  args: ['test:ci']
+  env:
+  - 'SECRET_TOKEN=maladeira'
+  - 'GOOGLE_APPLICATION_CREDENTIALS=./corepetro-57e280214c92.json'  
+  
+- name: "gcr.io/cloud-builders/gcloud"
+  args: ["app", "deploy"]
+  
+timeout: "1600s"
