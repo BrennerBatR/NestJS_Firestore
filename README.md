@@ -28,4 +28,4 @@ $ yarn run test
 
 
 ## Exportar variável
-$env:GOOGLE_APPLICATION_CREDENTIALS=".\corepetro-57e280214c92.json"
+$env:GOOGLE_APPLICATION_CREDENTIALS=".\firebaseKey.json"

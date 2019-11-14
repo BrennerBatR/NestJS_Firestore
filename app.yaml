@@ -1,8 +1,8 @@
 runtime: nodejs10
-service: programs
+service: product
 entrypoint: node ./dist/main.js
 
 env_variables:
   NODE_ENV: "production"
-  GOOGLE_APPLICATION_CREDENTIALS: "./corepetro-57e280214c92.json"
-  SECRET_TOKEN: "maladeira"
+  GOOGLE_APPLICATION_CREDENTIALS: "./firebaseKey.json.json"
+  SECRET_TOKEN: "secretToken"

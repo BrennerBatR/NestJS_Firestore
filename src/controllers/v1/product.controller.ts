@@ -28,11 +28,8 @@ import {
     ) { }
   
     @Post()
-    @ApiResponse({ status: 201, description: 'Usuário criado com sucesso' })
+    @ApiResponse({ status: 201, description: 'Produto criado com sucesso' })
     @ApiResponse({ status: 400, description: 'Dados inválidos' })
-    @ApiResponse({ status: 404, description: 'Role não encontrada' })
-    @ApiResponse({ status: 405, description: 'Email já cadastrado' })
-    @ApiResponse({ status: 405, description: 'CPF já cadastrado' })
     async insertProduct(@Body() product: ProductEntity, @Res() res) {
       try {
         await this.productService.insertProduct(product)
