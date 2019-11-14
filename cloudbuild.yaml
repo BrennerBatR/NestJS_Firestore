@@ -7,8 +7,8 @@ steps:
   entrypoint: yarn
   args: ['test:ci']
   env:
-  - 'SECRET_TOKEN=maladeira'
-  - 'GOOGLE_APPLICATION_CREDENTIALS=./corepetro-57e280214c92.json'  
+  - 'SECRET_TOKEN=secretToken'
+  - 'GOOGLE_APPLICATION_CREDENTIALS=./firebaseKey.json'  
   
 - name: "gcr.io/cloud-builders/gcloud"
   args: ["app", "deploy"]
